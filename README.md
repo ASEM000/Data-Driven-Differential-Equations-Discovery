@@ -1,4 +1,4 @@
-## Data Drive Differential Equations Discovery (Ongoing project)
+## Data Driven Differential Equations Discovery (Ongoing project)
 
 #### Discover the underlaying DE from data
 
